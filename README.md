@@ -31,4 +31,3 @@ Here are some of the technologies and languages I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=ravry&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats">
 </p>
 
----
