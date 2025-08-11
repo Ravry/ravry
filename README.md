@@ -29,7 +29,6 @@ Here are some of the technologies and languages I work with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravry&show_icons=true&theme=default&rank_icon=github" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravry&theme=default" alt="GitHub Streak">
 </p>
 
 ---
