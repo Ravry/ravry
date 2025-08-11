@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm [Your Name]!</h1>
+<p align="center">A passionate developer exploring the world of code. Welcome to my GitHub! </p>
 
-<!--
-**Ravry/ravry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on a **Minecraft-Like (Voxel) Engine**.
+- 🌱 I'm currently learning **C++**.
+- 👯 I'm looking to collaborate on **Game-Dev** projects.
+ 
+---
+
+### 💻 Languages & Tools
+
+Here are some of the technologies and languages I work with:
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="80" style="padding: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/300px-C_Sharp_Logo_2023.svg.png" alt="C#" width="80" style="padding: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/285px-Java-Logo.svg.png" alt="Java" width="80" style="padding: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="80" style="padding: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="80" style="padding: 10px;"/>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravry&show_icons=true&theme=default&rank_icon=github" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravry&theme=default" alt="GitHub Streak">
+</p>
+
+---
