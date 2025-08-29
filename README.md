@@ -23,11 +23,3 @@ Here are some of the technologies and languages I work with:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="80" style="padding: 10px;"/>
 </p>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravry&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats">
-</p>
-
