@@ -21,5 +21,6 @@ Here are some of the technologies and languages I work with:
   <img src="https://upload.wikimedia.org/wikiversity/de/b/b8/Java_cup.svg" alt="Java" width="80" style="padding: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="80" style="padding: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="80" style="padding: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/250px-Rust_programming_language_black_logo.svg.png" alt="Rust" width="80" style="padding: 10px;"/>
 </p>
 
