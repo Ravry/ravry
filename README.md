@@ -3,14 +3,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I'm currently working on a **Minecraft-Like (Voxel) Engine**.
-- 🌱 I'm currently learning **C++**.
-- 👯 I'm looking to collaborate on **Game-Dev** projects.
- 
----
-
 ### 💻 Languages & Tools
 
 Here are some of the technologies and languages I work with:
